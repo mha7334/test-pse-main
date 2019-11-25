@@ -1,0 +1,3 @@
+[submodule "test-pse-schemas"]
+	path = test-pse-schemas
+	url = https://github.com/mha7334/test-pse-schemas.git

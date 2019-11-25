@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 94D7-58A3
+
+ Directory of D:\repo\test-pse-main
+
+25/11/2019  12:13    <DIR>          .
+25/11/2019  12:13    <DIR>          ..
+25/11/2019  12:13                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  322,481,610,752 bytes free
